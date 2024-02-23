@@ -1,6 +1,8 @@
 # English (Английский)
 This is a complicated version of the "Hello, World!" program. Which I wrote in 30 minutes because I had nothing to do.
 
+Sorry for the mistakes English is not my main language (who is interested my main language is Russian)
+
 Command to compile the code:
 
 _**g++ HelloWorld.cpp -o HelloWorld**_
